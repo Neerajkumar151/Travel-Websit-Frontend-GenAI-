@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- White Background Circle -->
+  <circle cx="50" cy="50" r="45" fill="white"></circle>
+  
+  <!-- Black Letter T -->
+  <text x="50%" y="55%" text-anchor="middle" fill="black" font-size="50" font-family="serif" font-style="italic" dy=".3em">
+    T
+  </text>
+</svg>
