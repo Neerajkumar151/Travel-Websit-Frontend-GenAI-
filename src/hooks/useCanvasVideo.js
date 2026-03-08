@@ -8,7 +8,7 @@ export function useCanvasVideo(canvasRef, frameCount = 278) {
     // Vite serves public/ folder at root
     const imageFolder = "/frames/";
     const imagePrefix = "ezgif-frame-";
-    const imageExtension = ".jpg";
+    const imageExtension = ".webp";
 
     // We use a ref to store images to avoid re-renders on every load
     const savedImages = useRef([]);
